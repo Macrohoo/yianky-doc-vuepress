@@ -1,0 +1,15 @@
+{
+  "name": "yianky-doc-vuepress",
+  "version": "1.0.0",
+  "description": "yianky series doc",
+  "main": "index.js",
+  "author": "yian <105950987@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  }
+}
