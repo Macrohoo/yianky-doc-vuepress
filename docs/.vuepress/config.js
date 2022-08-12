@@ -4,7 +4,7 @@ module.exports = {
   head: [['link', { rel: 'icon', href: '/images/icon256.png' }]],
   title: 'Yianky',  // 设置网站标题
   description : '一款次生代的浏览器',
-  base : '/v1',
+  base : '/yianky-doc-vuepress/',
   theme: defaultTheme({
     logo: '/images/icon256.png',
     //repo: '',  这个属性好像是直接对文章能编辑
