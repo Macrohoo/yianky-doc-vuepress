@@ -23,15 +23,16 @@ module.exports = {
         ]
       },
       {
-        text: 'Plugin yian3',
+        text: 'Vue3 Plugin yian3',
         children: [
+          '/yian3/yian3.md',
           {
-            text: '开始',
-            children:['/yian3/yian3.md']
+            text: '指令',
+            children:['/yian3/v-dialog.md']
           },
           {
             text: '组件',
-            children: ['/yian3/ya-dialog.md', '/yian3/ya-checkbox.md']
+            children: ['/yian3/ya-checkbox.md']
           }
         ],
       },

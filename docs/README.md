@@ -10,7 +10,7 @@ actions:
     type: secondary
 features:
 - title: 简洁至上
-  details: 以极小的核心，以最简便的使用入口，帮助你浏览网页。
+  details: 以极小的核心，最简便的使用入口，帮助你浏览网页。
 - title: 新颖创新
   details: 标签组概念下，享受不同状态组下的浏览极致体验。
 - title: 开放Web集成
