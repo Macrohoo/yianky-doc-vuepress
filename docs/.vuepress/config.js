@@ -24,7 +24,23 @@ module.exports = {
       },
       {
         text: 'Plugin yian3',
-        children: ['/yian3/yian3.md'],
+        children: [
+          {
+            text: '开始',
+            children:['/yian3/yian3.md']
+          },
+          {
+            text: '组件',
+            children: ['/yian3/ya-dialog.md', '/yian3/ya-checkbox.md']
+          }
+        ],
+      },
+      {
+        text: '开发者指南',
+        children: [
+          '/developer/rule.md',
+          '/yianky/sdk.md'
+        ]
       },
       { text: 'Github', link: 'https://github.com/Macrohoo', target: '_blank' },
       { text: '哔哩哔哩', link: 'https://space.bilibili.com/41116713', target: '_self', rel: '' }
