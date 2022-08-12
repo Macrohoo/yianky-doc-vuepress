@@ -14,7 +14,7 @@ features:
 - title: 新颖创新
   details: 标签组概念下，享受不同状态组下的浏览极致体验。
 - title: 开放Web集成
-  details: 任何一个web前端开发者都可以投入到Yianky的嵌入工作中来。
+  details: 任何一个web前端开发者都可以投入到Yianky浏览器的嵌入工作中来。
 footer: MIT Licensed | Copyright © 2022-present Macrohoo
 ---
 
