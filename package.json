@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "yian <105950987@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/macrohoo/yianky-doc-vuepress/",
+  "homepage": "https://macrohoo.github.io/yianky-doc-vuepress",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
