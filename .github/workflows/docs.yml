@@ -43,8 +43,6 @@ jobs:
       - name: Build VuePress site
         run: yarn docs:build
 
-      - run: cp CNAME docs/.vuepress/dist/
-
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
@@ -57,3 +55,4 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CNAME: https://doc.mboke.top
