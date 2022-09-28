@@ -1,6 +1,7 @@
 ---
 sidebar: false
 home: true
+heroImage: /images/yianky-browser.png
 actions:
   - text: 快速下载
     link: 'https://github.com/Macrohoo/yianky-doc-vuepress/releases'
@@ -16,7 +17,6 @@ features:
 - title: 开放Web集成
   details: 任何一个web前端开发者都可以投入到Yianky浏览器的嵌入开发中来。
 footer: Copyright © 2022-present Macrohoo
+pageClass: home-page-class
 ---
-
-![Yianky](/images/yianky-browser.png)
 
