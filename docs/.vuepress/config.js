@@ -1,4 +1,5 @@
 const { defaultTheme } = require('@vuepress/theme-default')
+const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
 
 module.exports = {
   head: [
@@ -63,4 +64,10 @@ module.exports = {
       { text: '哔哩哔哩', link: 'https://space.bilibili.com/41116713', target: '_self', rel: '' }
     ],
   }),
+  plugins: [
+    docsearchPlugin({
+      apiKey: 'cccec3cf58902ebfd7e4eb9373cafa28',
+      indexName: '<INDEX_NAME>',
+    }),
+  ],
 }
