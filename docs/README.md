@@ -9,6 +9,9 @@ actions:
   - text: 了解产品 →
     link: /yianky/tasks
     type: secondary
+  - text: 百度网盘下载(提取码:l8ch)
+    link: 'https://pan.baidu.com/s/1eqah1thiZz9o4NdcgYGHKA'
+    type: secondary
 features:
 - title: 简洁至上
   details: 以极小的核心，最简便的使用入口，帮助你浏览网页。
