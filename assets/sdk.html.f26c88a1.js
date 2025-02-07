@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c9c2962c","path":"/yianky/sdk.html","title":"Web JS SDK","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1660269011000,"contributors":[{"name":"yian","email":"105950987@qq.com","commits":1}]},"filePathRelative":"yianky/sdk.md"}');export{e as data};
