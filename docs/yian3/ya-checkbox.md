@@ -18,8 +18,6 @@
 |---------|---------|---------|
 |selectX  | 选中或取消发生变化时回调函数 | 指定已选中的选项 |
 
-![组件形态](https://kodo.mboke.top/ya-checkbox.gif)
-
 ### 🧊 `ya-checkbox`组件示例
 ```html
 <ya-checkbox
